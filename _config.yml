@@ -12,7 +12,7 @@ site_theme               : "default"
 title                    : "Dr. Anthony Calacino"
 title_separator          : "-"
 name                     : &name "Anthony Calacino"
-description              : &description "Political Science PhD, currently Postdoc at University of Oxford, studies environment and climate politics."
+description              : &description "Political Science PhD, currently Postdoc at University of Oxford, studying environment and climate politics."
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -23,13 +23,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  name             : "Anthony Calacino"
+  pronouns         : "he/him"  
+  bio              : "Political Science PhD, currently Postdoc at University of Oxford, studying environment and climate politics."
+  location         : "Oxford/London, UK"
+  #employer         : "Red Brick University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "anthony.calacino@politics.ox.ac.uk" 
 
   # Academic websites
   academia         : # URL
@@ -51,31 +51,8 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
-  facebook         : # Username
-  flickr           : # Username
-  foursquare       : # Username
-  goodreads        : # Username
-  google_plus      : # Username
-  keybase          : # Username
-  instagram        : # Username
-  lastfm           : # Username
+  bluesky          : "@acalacino.bsky.social‬" # Replace this with you Bluesky username
   linkedin         : # Username
-  mastodon         : # URL
-  medium           : # URL
-  pinterest        : # Username
-  soundcloud       : # Username
-  steam            : # Username
-  telegram         : # URL
-  tumblr           : # Username
-  twitter          : # Username for X / Twitter
-  vine             : # Username
-  weibo            : # Username
-  wikipedia        : # Username
-  xing             : # Username
-  youtube          : # Username
-  zhihu            : # Username
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
