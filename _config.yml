@@ -22,7 +22,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "headshot2_low_res.jpg"
+  avatar           : "me.png"
   name             : "Anthony Calacino"
   pronouns         : "he/him"  
   bio              : "Political Science PhD, currently Postdoc at University of Oxford, studying environment and climate politics."
