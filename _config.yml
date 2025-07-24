@@ -22,7 +22,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/me.png"
+#  avatar           : "images/me.png"
   name             : "Anthony Calacino"
   pronouns         : "he/him"  
   bio              : "Political Science PhD, currently Postdoc at University of Oxford, studying environment and climate politics."
@@ -35,8 +35,8 @@ author:
   orcid            : "http://orcid.org/yourorcidurl"
 
   # Social media
-  bluesky          : "acalacino" # Replace this with you Bluesky username
-  linkedin         : "anthony-calacino-ab2ba91b5"
+#  bluesky          : "acalacino" # Replace this with you Bluesky username
+#  linkedin         : "anthony-calacino-ab2ba91b5"
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
